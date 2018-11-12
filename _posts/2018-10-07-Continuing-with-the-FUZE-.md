@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Continuing to code on the FUZE Box </td>
     <td>Date</td>
-    <td>04/10/18</td>
+    <td>05/10/18</td>
   </tr>
 </table>
 
