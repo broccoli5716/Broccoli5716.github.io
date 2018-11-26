@@ -1,5 +1,5 @@
 ---
-title: Continuing with the FUZE 
+title: Robot arm
 layout: post
 author: theodore.scott
 permalink: /continuing-with-the-fuze-/
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Continuing to code on the FUZE Box </td>
     <td>Date</td>
-    <td>05/10/18</td>
+    <td>20/11/18</td>
   </tr>
 </table>
 
@@ -19,11 +19,12 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Being able to program it to use colour and write specific words.</td>
+    <td>Using LED</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To be able to program it to do simple mathematics.</td>
+    <td>Robot arm
+</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
