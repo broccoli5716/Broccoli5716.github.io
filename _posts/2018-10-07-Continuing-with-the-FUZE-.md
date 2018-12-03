@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Continuing to code on the FUZE Box </td>
     <td>Date</td>
-    <td>20/11/18</td>
+    <td>28/11/18</td>
   </tr>
 </table>
 
@@ -19,17 +19,17 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Using LED</td>
+    <td>Using robot arm.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Robot arm
+    <td>More robot arm.
 </td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes </td>
+    <td> Yes. </td>
   </tr>
 </table>
 
@@ -42,7 +42,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I copied down the code and then changed certain aspects of to make sure I knew what everything did.</td>
+    <td>I copied down the code and then changed certain aspects of it to make sure I knew what everything did.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
