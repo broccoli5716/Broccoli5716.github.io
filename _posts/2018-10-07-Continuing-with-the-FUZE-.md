@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Continuing to code on the FUZE Box </td>
+    <td>Continuing The Robot Arm</td>
     <td>Date</td>
-    <td>28/11/18</td>
+    <td>3/12/18</td>
   </tr>
 </table>
 
