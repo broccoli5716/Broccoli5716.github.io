@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Continuing The Robot Arm</td>
+    <td>Continuing The Robot Arm, Some More</td>
     <td>Date</td>
-    <td>3/12/18</td>
+    <td>10/12/18</td>
   </tr>
 </table>
 
