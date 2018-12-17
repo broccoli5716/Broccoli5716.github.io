@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Continuing The Robot Arm, Some More</td>
+    <td>LED lights</td>
     <td>Date</td>
-    <td>10/12/18</td>
+    <td>10/11/18</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Using robot arm.</td>
+    <td>Programming algorithms.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>More robot arm.
+    <td>Using LED lights.
 </td>
   </tr>
   <tr>
